@@ -3,5 +3,7 @@
 S3method(mean,tbl_df)
 export(dummyFunction)
 exportClasses(S4DataFrame)
+exportClasses(tbl_df)
 import(methods)
+import(tibble)
 import(tidyr)
